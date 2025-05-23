@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" ?><jobs><item><id>1689450833</id><date_posted>2025-05-23T00:00:00</date_posted><date_created>2025-05-23T11:41:56.026105</date_created><title>Senior Data Engineer</title><organization>Domestic &amp; General</organization><organization_url></organization_url><date_validthrough>2025-06-20T00:00:00</date_validthrough><locations_raw><item><key name="@type">Place</key><address><key name="@type">PostalAddress</key><addressCountry>United Kingdom</addressCountry><addressLocality>GB: London - Wimbledon</addressLocality></address></item></locations_raw><locations_alt_raw><item>Wimbledon, UK</item></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type><item>FULL_TIME</item></employment_type><url>https://domesticandgeneral.wd3.myworkdayjobs.com/DeGCareers/job/Wimbledon-UK/Senior-Data-Engineer_JR100662</url><source_type>ats</source_type><source>workday</source><source_domain>domesticandgeneral.wd3.myworkdayjobs.com</source_domain><organization_logo></organization_logo><cities_derived><item>Wimbledon</item></cities_derived><regions_derived><item>Merton</item></regions_derived><countries_derived><item>United Kingdom</item></countries_derived><locations_derived><item>Wimbledon, Merton, United Kingdom</item></locations_derived><timezones_derived><item>Europe/London</item></timezones_derived><lats_derived><item>51.422</item></lats_derived><lngs_derived><item>-0.208</item></lngs_derived><remote_derived>false</remote_derived><description_text>Domestic &amp; General is a company with an ambitious future. We are expanding our horizons and entering new markets and we need your expertise to help make it happen. We are an international company who works with some of the worlds most respected and well-known brands of domestic appliances and electronic consumer goods. These opportunities don’t come around often, so this really is a position not to be missed. Job summary: D+G is transforming into a technology-powered product business serving customers around the world. Our products and services rely heavily on compelling digital experiences and data-led journeys for our B2B and B2C clients and customers. This is a key lead engineering role with D&amp;G’s technology team which presents a challenging and exciting opportunity which will require real enthusiasm and modern Data engineering experience to stabilise, enhance and transform D&amp;G’s operational Customer Databases as they move from legacy systems to new scalable cloud solutions across the UK, EU and US. The role will require an experienced Data engineer with good knowledge of IBM Datastage &amp; DB2, AWS &amp; Databricks pipelines who is able to excel in challenging environments with the confidence to help the teams steer the right course in the development of the data platform alongside supporting any required tooling decisions. The role will enable D+G to deliver a modern data services layer, delivered as a product, and which can hence be consumed by key service channels and stakeholders on demand. Strategic Impact: Quality Customer Data is the lifeblood of D&amp;G’s operations which allows us to serve our customers with outstanding propositions and outcomes. This role will be integral to supporting this through the following areas of delivery: On-Prem Customer Data Platform Stabilisation This role will initially help stabilise existing on-prem Customer Data Platforms to help serve our customers and protect the one-billion-pound revenue across the UK and EU. Targets will be to reduce merge and compliance incident backlog, promote more automation and support onboarding of 3rd party to provide managed break / fix service. Support Data Growth in UK and US Markets Supporting further growth in UK / EU markets through enhancement of the Customer on-prem IBM platforms to ensure they remain available, robust and secure for growing data demands in UK / EU whilst leading on delivery of cloud based solutions for the US pipelines and Data platform. Knowledge, Expertise, Complexity and Scope: Knowledge in the following areas essential: Data Engineering Experience: Databricks: Expertise in managing and scaling Databricks environments for ETL, data science, and analytics use cases. AWS Cloud: Extensive experience with AWS services such as S3, Glue, Lambda, RDS, and IAM. IBM Skills: DB2, Datastage, Tivoli Workload Scheduler, Urban Code Programming Languages: Proficiency in Python, SQL. Data Warehousing &amp; ETL: Experience with modern ETL frameworks and data warehousing techniques. DevOps &amp; CI/CD: Familiarity with DevOps practices for data engineering, including infrastructure-as-code (e.g., Terraform, CloudFormation), CI/CD pipelines, and monitoring (e.g., CloudWatch, Datadog). Familiarity with big data technologies like Apache Spark, Hadoop, or similar. Test automation skills ETL/ELT tools and creating common data sets across on-prem (IBM Datastage ETL) and cloud data stores Leadership &amp; Strategy: Lead Data Engineering team(s) in designing, developing, and maintaining highly scalable and performant data infrastructures. Customer Data Platform Development: Architect and manage our data platforms using IBM (legacy platform) &amp; Databricks on AWS technologies (e.g., S3, Lambda, Glacier, Glue, EventBridge, RDS) to support real-time and batch data processing needs. Data Governance &amp; Best Practices: Implement best practices for data governance, security, and data quality across our data platform. Ensure data is well-documented, accessible, and meets compliance standards. Pipeline Automation &amp; Optimisation: Drive the automation of data pipelines and workflows to improve efficiency and reliability. Team Management: Mentor and grow a team of data engineers, ensuring alignment with business goals, delivery timelines, and technical standards. Cross Company Collaboration: Work closely with all levels of business stakeholder including data scientists, finance analysts, MI and cross-functional teams to ensure seamless data access and integration with various tools and systems. Cloud Management: Lead efforts to integrate and scale cloud data services on AWS, optimising costs and ensuring the resilience of the platform. Performance Monitoring: Establish monitoring and alerting solutions to ensure the high performance and availability of data pipelines and systems to ensure no impact to downstream consumers. Key Responsibilities: Manage outcomes for the on-prem customer platform break / fix service. Build and deliver automated and secure data pipelines that provisions data for all business users and applications (including operational and insight) Work with the DevOps developer and testers to help support and create our AWS &amp; Databricks infrastructure and continuous delivery pipelines. Ensure all developments are tested and deployed within the automated CI / CD pipeline where appropriate. Version and store all development artefacts in the agreed repository Ensure all data are catalogued and appropriate documentation is created and maintained for all ETL code and associated NFR’s. Collaborate with the product owner (Data) &amp; business stakeholders to understand the requirements and capabilities. Collaborate with the lead architect, CCOE to align to the best practice delivery strategy. Participate in the teams agile planning and delivery process to ensure work is delivered in line with the Product Owners priorities Create low level designs for Epic’s and Stories and where required, support the lead architect to create the designs to enable the realization of the Data Lake, Operational Customer DB, Warehouse and marts while ensuring scalability, security by design, ease of use and high availability &amp; reliability. Identify the key capabilities needed for success and the technology choices, coding standards, testing techniques and delivery approach to deliver reliable data services Learn emerging technologies to keep abreast of new or better ways of delivering the Data Pipeline Welcomes a challenge as a new opportunity to learn new things and make new friends whilst always thinking of better techniques to solve problems We offer lots of great benefits! Some of which include: Competitive salary and annual discretionary bonus 25 days annual leave plus bank/public holidays, as well as an annual option to buy up to 5 additional days of annual leave Training opportunities as well as clearly defined career progression Health cash plan – employer funded cover to enable you to claim money back on essential healthcare costs, including dental, optical, physiotherapy and many more. Cover also includes unlimited access to a 24/7 virtual GP service Attractive company pension scheme Life assurance – employer funded cover of 4x basic salary Dedicated online benefit portal offering access to saving and lending facilities, financial wellbeing and support services Salary Finance – access to savings and borrowing through payroll Car Leasing – access to a carbon neutral salary sacrifice car leasing scheme, with an all-inclusive monthly cost covering all charge, taxes, insurance, repairs and maintenance on a range of brand new vehicles Travel Loans – interest free loans to help spread the cost of annual travel tickets Cycle to Work – tax efficient bike and cycling equipment worth up to £1,000 Health &amp; Wellbeing – discounted gym membership, online virtual workout sessions, online culinary classes OnHand – Giving you the opportunity to be an Eco &amp; Social volunteer via a handy app. Volunteer individually or in groups to get involved in Youth Mentoring, Food Poverty, Homelessness &amp; Elderly help Employee Assistance Programme – specialist advice and support on issues such as finance, relationships, illness and family issues Free Domestic &amp; General protection plan – one free plan each year with access to discounted rates of up to 50% on additional plans, including referrals for family and friends Employee discounts – access to discounted Sky TV and broadband packages, together with a range of discounts for 100s of online and high street retailers Domestic &amp; General are an equal opportunities employer which means we treat people fairly. We welcome applications from all suitably skilled persons regardless of their gender, age, race, disability, ethnic background, religion/belief, sexual orientation, gender reassignment or marital/family status. Please note that we have a thorough referencing process, which includes criminal record checks. At Domestic &amp; General, we are proud of our 100-year legacy and excited about our future growth plans. We are expanding our horizons, entering new markets and territories internationally and we need your expertise to help us on the journey. For over 100 years, Domestic &amp; General has been a trusted provider of aftercare for domestic appliances for over 16 million customers. You&apos;ll have tailored support and training throughout your time at Domestic &amp; General, allowing clear career progression in the direction you choose. We&apos;re transforming a 100-year-old business into a tech-driven platform with a global reach. But to do that, we&apos;ll need a range of skills from all walks of life. Think you can help?</description_text></item><item><id>1687948135</id><date_posted>2025-05-22T21:54:17.368</date_posted><date_created>2025-05-22T21:57:03.161018</date_created><title>Sr. GCP Data Engineer – 12+ Years of experience is must</title><organization>Ajna Infotech</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><address><streetAddress>Dallas</streetAddress><addressLocality>Dallas</addressLocality><addressRegion>Texas</addressRegion><addressCountry>United States</addressCountry></address></item></locations_raw><locations_alt_raw><item>Dallas, Dallas, Texas, United States</item></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type><item>Contract</item></employment_type><url>https://jobs.smartrecruiters.com/AjnaInfotech/744000061093650-sr-gcp-data-engineer-12-years-of-experience-is-must</url><source_type>ats</source_type><source>smartrecruiters</source><source_domain>jobs.smartrecruiters.com</source_domain><organization_logo></organization_logo><cities_derived><item>Dallas</item></cities_derived><regions_derived><item>Texas</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Dallas, Texas, United States</item></locations_derived><timezones_derived><item>America/Chicago</item></timezones_derived><lats_derived><item>32.7935</item></lats_derived><lngs_derived><item>-96.7667</item></lngs_derived><remote_derived>false</remote_derived><description_text>Company DescriptionMSRcosmos is an IT Services subsidiary of the MSRcosmos Group,
+A U.S.-based multinational conglomerate. MSRcosmos Group focused on diverse ventures ranging from IT services to real estate and education. Together, both companies believe that business success and serving humanity are symbiotic and strive to excel at both.Job DescriptionRole: Sr. GCP Data Engineer – 12+ Years of experience is must
+Location: Remote
+Type: ContractMust have
+•    12 years of experience and 7 years in software design and development
+•    5 years of experience in the data engineering field is preferred
+•    3 years of Hands on experience in GCP cloud data implementation suite such as Big Query  Pub Sub  Data Flow Apache Beam  Airflow Composer  Cloud Storage  Cloud Functions  Comparable skills in AWS and other cloud Big Data Engineering space is considered
+•    Strong experience and understanding of very large scale data architecture  solutioning  and operationalization of data warehouses  data lakes  and analytics platforms
+•    Hands on software development skills using Java and Python
+•    Extensive hands on experience working with data using SQL
+•    Experience in DevOps CI CD  pipeline facilitating automated deployment and testingGood to have
+•    Experience with agile development methodologies
+•    Excellent verbal and written communications skills with the ability to clearly present ideas  concepts  and solutions
+•    Bachelors degree in computer science  Information Technology  or closely related disciplineAdditional InformationAll your information will be kept confidential according to EEO guidelines.</description_text></item><item><id>1687992278</id><date_posted>2025-05-22T21:32:14</date_posted><date_created>2025-05-22T22:15:48.305345</date_created><title>Data Engineer, R&amp;D Informatics</title><organization>Flagship Pioneering, Inc.</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Cambridge, MA USA</name><address><key name="@type">PostalAddress</key><name>Cambridge, MA USA</name><addressCountry></addressCountry><addressLocality>Cambridge, MA USA</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://boards.greenhouse.io/flagshippioneeringinc/jobs/8006433002?gh_jid=8006433002</url><source_type>ats</source_type><source>greenhouse</source><source_domain>boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived><item>Cambridge</item></cities_derived><regions_derived><item>Massachusetts</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Cambridge, Massachusetts, United States</item></locations_derived><timezones_derived><item>America/New_York</item></timezones_derived><lats_derived><item>42.3759</item></lats_derived><lngs_derived><item>-71.1185</item></lngs_derived><remote_derived>false</remote_derived><description_text>What if... We could harness the power of Flagship’s scientific platforms and create novel treatment options that benefit more patients, sooner? 
+Pioneering Medicines, an initiative of Flagship Pioneering, is building a world-class biopharmaceutical R&amp;D capability focused on conceiving and developing life-changing treatments for patients by harnessing the power of Flagship&apos;s scientific platforms and applying those innovative approaches to serious diseases with unmet medical need. Unique to Pioneering Medicines’ approach is the opportunity to combine platforms to create truly novel and potentially transformative treatments. 
+Position Summary:
+We are seeking a hands-on Data Engineer to build and maintain modern data solutions that support research, data science, and informatics workflows. You’ll work closely with cloud architecture, bioinformatics, and data science teams to design and operationalize pipelines, databases, and analytics platforms in AWS.
+
+This role is ideal for someone who thrives in a collaborative R&amp;D environment, loves to code, and is passionate about data engineering in support of drug discovery and translational science.
+Key Responsibilities:
+Build, maintain, and optimize data pipelines in AWS to support scientific and operational use cases.
+Partner with scientists, bioinformaticians, and analysts to ingest, transform, and structure data for analytics and modeling.
+Contribute to the development of scalable data lakes, marts, and warehouse solutions.
+Implement automation and CI/CD for data workflows to ensure reproducibility and scalability.
+Monitor and support production pipelines, troubleshoot issues, and drive continuous improvement.
+Collaborate with application teams to integrate data systems with scientific and operational tools.
+Ensure data security, quality, and compliance with regulatory and privacy standards.
+Required Qualifications:
+3+ years of experience in data engineering, ideally in the life sciences or healthcare domain.
+Strong experience building data pipelines using Python and SQL.
+Proficiency with AWS data services (e.g., S3, Glue, Redshift, RDS, Athena).
+Familiarity with modern data frameworks (e.g., Airflow, dbt, Spark).
+Experience working with both structured and unstructured data (CSV, JSON, Parquet, etc.).
+Working knowledge of CI/CD and Git-based development workflows.
+Comfortable collaborating with cross-functional teams in a fast-paced R&amp;D setting.
+Preferred Qualifications:
+Experience supporting bioinformatics, cheminformatics, or clinical data workflows.
+Familiarity with data visualization tools (e.g., Tableau, Spotfire) or notebook environments (e.g., Jupyter, RStudio).
+Exposure to Agile or Scrum-based development.
+AWS certification (e.g., Data Analytics or Solutions Architect Associate).
+What We Look For:
+A builder’s mindset and a passion for solving complex data problems.
+Curiosity and a desire to learn scientific domains and business drivers.
+A sense of urgency and a bias toward action.
+Commitment to quality, reliability, and reproducibility in engineering work.
+About Flagship Pioneering:
+Flagship Pioneering is a biotechnology company that invents and builds platform companies that change the world. We bring together the greatest scientific minds with entrepreneurial company builders and assemble the capital to allow them to take courageous leaps. Those big leaps in human health and sustainability exponentially accelerate scientific progress in areas ranging from cancer detection and treatment to nature-positive agriculture. What sets Flagship apart is our ability to advance biotechnology by uniting life science innovation, company creation, and capital investment under one roof in a way that is largely without precedent. Our scientific founders, entrepreneurial leaders, and professional capital managers are each aligned around an institutionalized process that enables us to innovate and transform for the benefit of people and planet. Many of the companies Flagship has founded have addressed humanity’s most urgent challenges: vaccinating billions of people against COVID-19, curing intractable diseases, improving human health, preempting illness, and feeding the world by improving the resiliency and sustainability of agriculture. 
+Flagship has been recognized twice on FORTUNE’s “Change the World” list, an annual ranking of companies that have made a positive social and environmental impact through activities that are part of their core business strategies, and has been twice named to Fast Company’s annual list of the World’s Most Innovative Companies. 
+Flagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+At Flagship, we recognize there is no perfect candidate. If you have some of the experience listed above but not all, please apply anyway. Experience comes in many forms, skills are transferable, and passion goes a long way. We are dedicated to building diverse and inclusive teams and look forward to learning more about your unique background.
+Recruitment &amp; Staffing Agencies: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, “FSP”) do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.
+#LI-NM1</description_text></item><item><id>1687881341</id><date_posted>2025-05-22T21:14:59</date_posted><date_created>2025-05-22T21:18:23.091856</date_created><title>Reference Data Engineer</title><organization>DRW </organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Chicago</name><address><key name="@type">PostalAddress</key><name>Chicago</name><addressCountry></addressCountry><addressLocality>Chicago</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://job-boards.greenhouse.io/drweng/jobs/6872068</url><source_type>ats</source_type><source>greenhouse</source><source_domain>job-boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived><item>Chicago</item></cities_derived><regions_derived><item>Illinois</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Chicago, Illinois, United States</item></locations_derived><timezones_derived><item>America/Chicago</item></timezones_derived><lats_derived><item>41.8375</item></lats_derived><lngs_derived><item>-87.6866</item></lngs_derived><remote_derived>false</remote_derived><description_text>DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.
+Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets.
+We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it&apos;s how we do it. DRW is a place of high expectations, integrity, innovation and a willingness to challenge consensus.
+We are on the lookout for a proficient and seasoned Reference Data Engineer to become a crucial part of our team, focusing on refining and improving our reference data systems. This is a chance to significantly influence the efficiency of our trading.
+Qualifications &amp; Skills:
+5+ years of professional experience with financial reference data management
+Deep understanding of operational concerns around reference data management, including corporate actions and reconciliation
+Proficient in Python for data manipulation and automation
+Experience with relational databases for data storage and retrieval
+Strong communication skills for effective collaboration with team members and stakeholders
+Critical thinker who takes ownership of projects and is comfortable challenging consensus
+What you’ll be working on:
+Participate in the design, development, and upkeep of reference data systems
+Support the introduction of new markets and products through data collection, implementation, testing, and system upgrades
+Manage the acquisition and oversight of trading data from exchanges
+Utilize domain-specific expertise to maintain the accuracy, consistency, and timeliness of reference data
+Take ownership and proactively propose enhancements for the reference data infrastructure
+Simplify the request process for new market and product inclusions
+Implement comprehensive automation for corporate actions
+Advance the trade reconciliation process
+Oversee data in non-PROD environments by adding UAT instruments, streamlining data sync from PROD, and resolving data issues
+Prepare and manage compliance reports for orders, fills, end-of-day positions, price limits, and trading boundaries
+Provide high-quality data solutions efficiently, while adhering to best practices
+Collaborate with DevOps and support teams on various projects
+This position encompasses the entire data lifecycle, from requirements and design to implementation and production releases. Strong communication skills are vital. If you are an experienced data engineer with a background in trading infrastructure and a passion for technological advancement, we invite you to apply.
+The annual base salary range for this position is $150,000 to $225,000 depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual discretionary bonus. In addition, DRW offers a comprehensive suite of employee benefits including group medical, pharmacy, dental and vision insurance, 401k (with discretionary employer match), short and long-term disability, life and AD&amp;D insurance, health savings accounts, and flexible spending accounts.
+For more information about DRW&apos;s processing activities and our use of job applicants&apos; data, please view our Privacy Notice at https://drw.com/privacy-notice.
+California residents, please review the California Privacy Notice for information about certain legal rights at https://drw.com/california-privacy-notice.
+[#LI-TL]</description_text></item><item><id>1687882532</id><date_posted>2025-05-22T20:58:49</date_posted><date_created>2025-05-22T21:19:13.021651</date_created><title>Data Engineer</title><organization>Accenture Federal Services</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Fort Washington, MD</name><address><key name="@type">PostalAddress</key><name>Fort Washington, MD</name><addressCountry></addressCountry><addressLocality>Fort Washington, MD</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://boards.greenhouse.io/accenturefederalservices/jobs/4570688006?gh_jid=4570688006</url><source_type>ats</source_type><source>greenhouse</source><source_domain>boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived><item>Fort Washington</item></cities_derived><regions_derived><item>Maryland</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Fort Washington, Maryland, United States</item></locations_derived><timezones_derived><item>America/New_York</item></timezones_derived><lats_derived><item>38.7339</item></lats_derived><lngs_derived><item>-77.0069</item></lngs_derived><remote_derived>false</remote_derived><description_text>At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, national security, public safety, civilian, and military health organizations.
+
+Join Accenture Federal Services, a technology company and part of global Accenture, to do work that matters in a collaborative and caring community, where you feel like you belong and are empowered to grow, learn and thrive through hands-on experience, certifications, industry training and more.
+
+Join us to drive positive, lasting change that moves missions and the government forward!
+Job Description
+Accenture Federal Services is searching for a Data Engineer to design, develop and maintain data solutions for data generation, collection, and processing. This role will help to create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems.
+Responsibilities:
+Data Pipeline Development &amp; Management
+Design and implement data pipelines utilizing AWS S3, Apache NiFi, and ELK Stack
+Create automated data ingestion workflows with API integration
+Implement NLP-based data transformation and conditioning processes
+Ensure pipeline monitoring, maintenance, and optimization
+Data Architecture &amp; Storage
+Design and implement databases based on documented data models
+Lead data storage solutions and architecture decisions
+Establish data cleansing and normalization protocols
+Integrate multiple data sources into consistent, machine-readable formats
+Data Quality &amp; Governance
+Implement methodologies for improving data reliability and quality
+Manage data categorization, labeling, and retention policies
+Enforce data governance standards across projects
+Develop and maintain data quality monitoring systems
+Visualization &amp; Analytics
+Lead dashboard development and customized visualization initiatives
+Create and maintain reporting solutions
+Provide technical guidance for program study areas
+Technical Infrastructure &amp; Tools
+Proficiency in version control and CI/CD practices for data pipelines
+Knowledge of stream processing frameworks (Apache Kafka, Kinesis)
+Experience with data warehousing solutions (Snowflake, Redshift)
+Programming &amp; Development
+Strong Python programming skills for data pipeline development
+Advanced SQL knowledge for complex data transformations
+Familiarity with containerization (Docker, Kubernetes)
+Data Testing &amp; Monitoring
+Set up monitoring and alerting for pipeline failures
+Create data validation checks and reconciliation processes
+Develop automated testing for data transformations
+Performance Optimization
+Experience optimizing large-scale data processing jobs
+Knowledge of query optimization techniques
+Ability to troubleshoot performance bottlenecks
+Security &amp; Compliance
+Implement data security best practices
+Understanding of security protocols for sensitive data
+Basic Qualifications:
+3 years of experience with creating data pipelines, ensure data quality, and implementing ETL (extract, transform and load) processes to migrate and deploy data across systems
+Experience with any of the following technology: 
+Python programming
+AWS cloud
+Apache NiFi
+ELK Stack
+Docker or Kubernetes
+Preferred experience:
+Bachelor’s degree
+Must obtain IAT Level II certification within 90 days of starting
+Experience with AWS cloud services, particularly S3
+Proficiency in Apache NiFi and ELK Stack
+Experience with API integration and data extraction
+Knowledge of NLP and data transformation techniques
+Understanding of data governance principles
+Experience with Apache NiFi / Kafka
+Experience in relational databases
+Experience in NoSQL solutions
+Proficiency in Python
+Proficiency in Java
+Experience with ETL pipeline development and maintenance
+Experience with Elasticsearch, Logstash and Kibana
+As required by local law, Accenture Federal Services provides reasonable ranges of compensation for hired roles based on labor costs in the states of California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York, Washington, Vermont, and the District of Columbia. The base pay range for this position in these locations is shown below. Compensation for roles at Accenture Federal Services varies depending on a wide array of factors, including but not limited to office location, role, skill set and level of experience. Accenture Federal Services offers a wide variety of benefits. You can find more information on benefits here. We accept applications on an on-going basis and there is no fixed deadline to apply.
+The pay range for the states of California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York, Washington, Vermont, and the District of Columbia is:
+$110,400—$160,300 USD
+What We Believe 
+As a company wholly dedicated to serving the US federal government, we bring together the best talent to help reinvent how federal agencies operate and deliver greater value for their mission and the American people. We have an unwavering commitment to creating a culture in which all our people are respected, feel a sense of belonging, and have equal opportunity. As a business imperative, every person at Accenture Federal Services has the responsibility to create and sustain a culture where everyone feels welcomed and included. This is grounded in our core values and our experience that hiring and developing great people who reflect different perspectives, experiences, and backgrounds is key to driving innovation and delivering the results that our clients and the country count on.
+Equal Employment Opportunity Statement
+We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities. For details, view a copy of the Accenture Federal Services Equal Opportunity Policy Statement.
+Accenture Federal Services is an Equal Employment Opportunity employer. Additionally, as an Affirmative Action Employer for Veterans and Individuals with Disabilities, Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.
+Requesting An Accommodation 
+Accenture Federal Services is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture Federal Services and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you are being considered for employment opportunities with Accenture Federal Services and need an accommodation for a disability or religious observance during the interview process or for the job you are interviewing for, please speak with your recruiter.
+Other Employment Statements 
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture Federal Services or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company&apos;s legal duty to furnish information.
+California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.</description_text></item><item><id>1687894757</id><date_posted>2025-05-22T20:41:46</date_posted><date_created>2025-05-22T21:28:00.671237</date_created><title>Senior Data Engineer</title><organization> Understood</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>New York, NY</name><address><key name="@type">PostalAddress</key><name>New York, NY</name><addressCountry></addressCountry><addressLocality>New York, NY</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://boards.greenhouse.io/understood/jobs/8009540002?gh_jid=8009540002</url><source_type>ats</source_type><source>greenhouse</source><source_domain>boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived></cities_derived><regions_derived><item>New York</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>New York, United States</item></locations_derived><timezones_derived><item>America/New_York</item></timezones_derived><lats_derived><item>42.6664</item></lats_derived><lngs_derived><item>-73.7987</item></lngs_derived><remote_derived>false</remote_derived><description_text>About Understood
+Understood is a nonprofit focused on shaping the world for difference. We raise awareness of the challenges and strengths of people who learn and think differently. Our resources help people navigate challenges, gain confidence, and find support and community so they can thrive. 
+Having a shared commitment to our values is a key factor in any hire we make. We have five core values: 
+Continuously learn.
+Act with intention.
+Champion difference.
+Inspire change.
+Grow together. 
+Come be part of an organization with an entrepreneurial spirit that’s helping to shape the world for difference. Together, we can build a world where everyone can reach their full potential. To learn more about Understood, please visit: www.understood.org.
+Who you are 
+We are hiring a Senior Data Engineer, reporting into our Manager, Data Engineering to support Understood’s mission and to further our impact. You’re a seasoned engineer who knows how to design and build reliable, scalable data pipelines — and you’re motivated by using those skills to make a meaningful difference.
+You bring deep experience with SQL (especially in Snowflake), data modeling, and modern data engineering practices. You’re fluent in Python, familiar with cloud platforms like GCP or AWS, and experienced with tools like for data source integration and website event tracking.
+You take ownership from design through delivery, communicate clearly, and collaborate effectively across teams. You think strategically about how data can power smarter decisions. Most of all, you&apos;re curious, proactive, and passionate about learning — and about using data to create positive, lasting impact.
+This is a hybrid role that requires a minimum of three (3) days a week in our NYC office, with a focus on Monday, Tuesday, and Thursday.
+What you’ll do
+Lead the design and development of scalable, reliable data pipelines and workflows, with Snowflake as the central data platform.
+Architect end-to-end ELT and ETL processes that integrate data from diverse sources, including internal systems, APIs, and cloud based data integration tools.
+Define and promote best practices for data quality, governance, security, and performance optimization.
+Develop and maintain robust data models that support analytics, reporting, and data science use cases.
+Collaborate cross-functionally with analytics, product, engineering, and business stakeholders to deliver high-impact data solutions.
+Mentor junior engineers, contribute to team standards, and foster a culture of technical excellence and continuous learning.
+Write clean, maintainable code and support modern practices in documentation, testing, and monitoring.
+Stay informed on industry trends and recommend improvements to enhance system scalability and maintainability.
+Must-haves 
+5+ years of experience in data engineering, with a track record of building and maintaining scalable, production-grade data pipelines and architectures.
+Deep expertise with Snowflake, including data modeling, performance tuning, and query optimization.
+Strong SQL and Python skills for data transformation, automation, and tooling.
+Familiarity with modern ELT/ETL approaches, cloud platforms (AWS or GCP), and data engineering best practices.
+Proven ability to translate business needs into robust technical solutions, working both independently and collaboratively across teams.
+Excellent problem-solving and communication skills, with the ability to explain complex ideas to diverse audiences.
+A proactive, curious mindset and a passion for using data to solve meaningful problems.
+Commitment to fostering an inclusive, equitable, and collaborative team environment.
+Nice-to-haves
+Experience with Fivetran 
+Experience setting up or contributing to CI/CD pipelines for data workflows.
+Experience with AI technology, handling chatbot data or previous experience with Langsmith data
+Experience with Snowplow for website event tracking.
+The base salary range for this role is minimum $140,000–$160,000 maximum, depending on years of experience and qualifications. We offer a comprehensive benefits package that supports wellness for our team members and their families. You can learn more about our benefits and offerings.
+Understood.org does not sponsor applicants for work visas or legal permanent residence, including providing assistance with STEM OPT extensions.
+Commitment to diversity, equity, and inclusion
+Understood encourages individuals of all learning styles and ethnic, racial, and socioeconomic backgrounds, including those whose life experiences may include the challenge of access due to a disability, to apply for this position. We are committed to maximizing the diversity of our organization, as we want to engage all those who can contribute to supporting this work.
+Understood is an equal opportunity employer and considers all applications without regard to race, color, religion, creed, sex, national origin, ancestry, age, alienage or citizenship status, marital or familial status, domestic partnership status, caregiver status, sexual orientation, gender, gender identity or expression, change of sex or transgender status, genetic information, medical condition, pregnancy, childbirth or related medical conditions, physical or mental disability (where the applicant or employee is qualified to perform the essential functions of the job with or without reasonable accommodation), any protected military or veteran status, or status as a victim of domestic or dating violence, sexual assault or offense, stalking, or any other characteristics protected by federal, state, or local law or that of persons with whom that individual associates, or any other legally protected characteristics.
+For additional information on learning and thinking differences, including ADD/ADHD, dyslexia, dyscalculia, dysgraphia, dyspraxia, executive function challenges, nonverbal learning disabilities, processing issues, and more, please visit www.understood.org.
+#LI-BL1</description_text></item><item><id>1687767402</id><date_posted>2025-05-22T20:21:11</date_posted><date_created>2025-05-22T20:32:01.613921</date_created><title>Data Engineer II</title><organization>Relativity Space</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Long Beach, California</name><address><key name="@type">PostalAddress</key><name>Long Beach, California</name><addressCountry></addressCountry><addressLocality>Long Beach, California</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://boards.greenhouse.io/relativity/jobs/8009026002?gh_jid=8009026002</url><source_type>ats</source_type><source>greenhouse</source><source_domain>boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived><item>Long Beach</item></cities_derived><regions_derived><item>California</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Long Beach, California, United States</item></locations_derived><timezones_derived><item>America/Los_Angeles</item></timezones_derived><lats_derived><item>33.7977</item></lats_derived><lngs_derived><item>-118.167</item></lngs_derived><remote_derived>false</remote_derived><description_text>At Relativity Space, we have two audacious goals: to build the next great commercial launch company with Terran R and to become America&apos;s leading force in additive manufacturing innovation. Both contribute to our long-term vision of creating humanity’s industrial base on Mars, paving the way for interplanetary life to expand the possibilities of the human experience. This journey begins right here on Earth – where we design, build, and fly rockets to deliver customer payloads to orbit. Terran R, our medium-to-heavy lift reusable rocket, fulfills the growing demand for launch capacity, thanks to our iterative approach that accelerates design, testing, and development while minimizing costs. While our groundbreaking research and development in 3D printing pushes the boundaries of large-scale additive manufacturing.
+Your journey with us is more than just a job – it’s an opportunity to shape the future of aerospace technology, additive manufacturing, and the human experience alongside a community of passionate, creative individuals. Join us on this extraordinary journey, as we work together to transform our vision into reality.
+About the Team: 
+The Data Warehouse team builds and maintains critical data infrastructure that powers the entire organization. This includes our end-to-end data pipelines, robust storage systems, applications for data modeling and visualization, enterprise analytics platforms, and other tools that our analysts and business users work with on a daily basis. This team works with almost every department across the company, including product engineering teams, finance and operations. 
+If you&apos;re interested in building world-class data solutions for diverse stakeholders, bridging the gap between raw information and actionable insights, and in learning how data flows from initial collection all the way through business decision-making, this is the team for you. 
+About the Role:
+As a Data Engineer II, you will be responsible for developing and maintaining the technical components of our analytics data platform. This includes building scalable data pipelines, optimizing database storage and query retrieval, and collaborating with cross-functional teams to deliver data solutions that meet business requirements. You will work with modern data stack technologies and contribute to the overall data strategy of the organization. 
+Discover new data sources for ingestion via database connections, APIs, and message queues 
+Design, build, and maintain scalable and reliable data pipelines using Airbyte 
+Develop and optimize base data models in Redshift using dbt 
+Write efficient SQL queries to support analysis 
+Observe the data monitoring systems and quality checks, and respond to issues 
+Collaborate with analysts and other stakeholders to understand data requirements 
+Document data models systems and administrative processes 
+Our Data Stack
+Airbyte, Argo, dbt, Redshift, PowerBI, Grafana. 
+About You:
+2+ years of experience in data engineering or related field 
+Experience with cloud data warehouses, particularly Amazon Redshift 
+Experience with dbt for data transformation and modeling 
+Knowledge of workflow orchestration tools like Argo or alternatives (Airflow, Prefect, Dagster) 
+Strong programming skills in Python and SQL 
+Experience with version control systems (Git) 
+Understanding of data modeling concepts (dimensional modeling, star schema) 
+Bachelor&apos;s degree in Computer Science, Engineering, or related field, or equivalent practical experience 
+Nice to haves but not required: 
+Familiarity with streaming data technologies is a plus 
+Experience with Kubernetes infrastructure as code (Terraform) 
+Proficiency in data pipeline tools such as Airbyte or similar ELT/ETL tools 
+Experience with other cloud platforms (AWS, GCP, Azure) 
+Experience with Knowledge of data governance and security practices 
+Experience with real-time data processing 
+Experience administering data visualization platforms like PowerBI 
+At Relativity Space, we are committed to transparency and fairness in our compensation practices. Actual compensation will be determined based on experience, qualifications, and other job-related factors.
+
+Compensation is only one part of our total rewards package. Relativity Space offers competitive salary and equity, a generous PTO and sick leave policy, parental leave, an annual learning and development stipend, and more! To see some of the benefits &amp; perks we offer, please visit here.
+Hiring Range:
+$132,000—$169,000 USD
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</description_text></item><item><id>1688382719</id><date_posted>2025-05-22T18:22:00</date_posted><date_created>2025-05-23T01:49:19.312805</date_created><title>Senior Data Engineer</title><organization>Liberty Mutual Insurance</organization><organization_url>libertymutual.com</organization_url><date_validthrough>2025-06-21T18:22:00</date_validthrough><locations_raw><item><key name="@type">Place</key><address><key name="@type">PostalAddress</key><addressLocality>Indianapolis</addressLocality><addressRegion>IN,US</addressRegion><addressCountry><key name="@type">Country</key><name>US</name></addressCountry></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type><item>FULL_TIME</item></employment_type><url>https://searchjobs.libertymutualgroup.com/careers/job/618504630559-senior-data-engineer-indianapolis-indiana-united-states</url><source_type>ats</source_type><source>eightfold</source><source_domain>searchjobs.libertymutualgroup.com</source_domain><organization_logo></organization_logo><cities_derived><item>Indianapolis</item></cities_derived><regions_derived><item>Indiana</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Indianapolis, Indiana, United States</item></locations_derived><timezones_derived><item>America/Indiana/Indianapolis</item></timezones_derived><lats_derived><item>39.7771</item></lats_derived><lngs_derived><item>-86.1458</item></lngs_derived><remote_derived>false</remote_derived><description_text>The typical starting salary range for this role is determined by a number of factors including skills, experience, education, certifications and location. The full salary range for this role reflects the competitive labor market value for all employees in these positions across the national market and provides an opportunity to progress as employees grow and develop within the role. Some roles at Liberty Mutual have a corresponding compensation plan which may include commission and/or bonus earnings at rates that vary based on multiple factors set forth in the compensation plan for the role.
+
+Description 
+Responsible for analysis, development, and execution of data solutions, in order to manage the information lifecycle needs of an organization. 
+Designs and develops programs and tools to support ingestion, curation, and provisioning of complex enterprise data to achieve analytics, reporting, and data science. 
+Identifies process improvements that address complex technology gaps within a single business process. 
+Builds strong knowledge of technology enablers. 
+Analyzes and prepares complex technology enabled recommendations to address gaps within a single business process. 
+Provides successful deployment and provisioning of data solutions to production or other required environments. 
+Designs and builds data provisioning workflows/pipelines, physical data schemas, extracts, data transformations, and data integrations and/or designs and builds data architecture and applications that enable reporting, analytics, data science, and data management and improve accessibility, efficiency, governance, processing, and quality of data. 
+Telecommuting permitted up to 60%.
+Qualifications
+Employer will accept a bachelor’s degree (or foreign equivalent) in Electronics Engineering or a related field and 5 years of experience in the job offered or in a Senior Data Engineer-related occupation. 
+Position requires demonstrable experience with each of the following: 
+Working knowledge of AWS, Snowflake, Informatica, SQL.
+Designing and building data pipelines. 
+Designing and building data provisioning workflows. 
+Data ingestion, curation &amp; provisioning. 
+Data extracts &amp; transformations. 
+Data Integration. 
+Data reliability &amp; quality. 
+SQL Development. 
+Telecommuting permitted up to 60%
+REFER TO: To apply, please visit https://jobs.libertymutualgroup.com/, select “Search Jobs,” enter job requisition #2025-70378 in the “Job ID or Keywords” field, and submit resume. Alternatively, you may apply by submitting a resume via e-mail to RecruitLM@LibertyMutual.com. Reference requisition number in subject of e-mail.
+About Us
+As a purpose-driven organization, Liberty Mutual is committed to fostering an environment where employees from all backgrounds can build long and meaningful careers. Through strong relationships, comprehensive benefits and continuous learning opportunities, we seek to create an environment where employees can succeed, both professionally and personally. 
+At Liberty Mutual, we believe progress happens when people feel secure. By providing protection for the unexpected and delivering it with care, we help people embrace today and confidently pursue tomorrow. 
+We are proud to support a diverse, equitable and inclusive workplace, where all employees feel a sense of community, belonging and can do their best work. Our seven Employee Resource Groups (ERGs) offer a centralized, open space to bring employees and allies together to connect, learn and engage. 
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits 
+
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran&apos;s status, pregnancy, genetic information or on any basis prohibited by federal, state or local law. 
+
+Fair Chance Notices 
+California
+Los Angeles Incorporated
+Los Angeles Unincorporated
+Philadelphia
+San Francisco</description_text></item><item><id>1687342350</id><date_posted>2025-05-22T17:05:08</date_posted><date_created>2025-05-22T17:27:47.611953</date_created><title>Data Engineer</title><organization>Azurity Pharmaceuticals - US</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Woburn</name><address><key name="@type">PostalAddress</key><name>Woburn</name><addressCountry></addressCountry><addressLocality>Woburn</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://job-boards.greenhouse.io/azuritypharmaceuticals/jobs/4568295005</url><source_type>ats</source_type><source>greenhouse</source><source_domain>job-boards.greenhouse.io</source_domain><organization_logo></organization_logo><cities_derived><item>Woburn</item></cities_derived><regions_derived><item>Massachusetts</item></regions_derived><countries_derived><item>United States</item></countries_derived><locations_derived><item>Woburn, Massachusetts, United States</item></locations_derived><timezones_derived><item>America/New_York</item></timezones_derived><lats_derived><item>42.4869</item></lats_derived><lngs_derived><item>-71.1543</item></lngs_derived><remote_derived>false</remote_derived><description_text>Azurity Pharmaceuticals is a privately held, specialty pharmaceutical company that focuses on innovative products that meet the needs of underserved patients. As an industry leader in providing unique, accessible, and high-quality medications, Azurity leverages its integrated capabilities and vast partner network to continually expand its broad commercial product portfolio and robust late-stage pipeline. The company’s patient-centric products span the cardiovascular, neurology, endocrinology, gastro-intestinal, institutional, and orphan markets, and have benefited millions of patients. For more information, visit www.azurity.com.
+Azurity Pharmaceuticals is proud to be an inclusive workplace and an Equal Opportunity Employer. Azurity&apos;s success is attributable to our incredibly talented, dedicated team that focuses on benefiting the lives of patients by bringing the best science and commitment to quality into everything that we do. We seek highly motivated individuals with the dedication, integrity, and creative spirit needed to thrive in our organization.
+Job Description:
+Serve as the principal data engineer for data warehouse initiatives.
+Partner with product owners and business stakeholders to analyze corporate needs.
+Provide data architecture and solutions that meet business data insights and reporting requirements.
+Design, build, and maintain data pipelines, workflows, data modeling, and database structures.
+Implement data storage solutions and ensure data quality and consistency.
+Optimize data flow and collection for efficiency.
+Collaborate with data scientists, software developers, and commercial operations colleagues to create coherent solutions.
+Find and recommend process improvements, particularly transitioning from manual processes to automation.
+Ensure compliance with information security and privacy policies in data architecture and data warehouse capabilities.
+Provide scripting and software development support as needed (P-SQL, T-SQL, Python).
+Create and maintain documentation, including sources to target data mapping and systems architecture diagrams.
+Monitor, support, and troubleshoot data processing systems to improve data analytics platforms.
+Requirements:
+Bachelor’s degree or foreign equivalent in computer science, computer information systems, mathematics, or a related field, plus one year of experience in the job offered or as a data engineer creating data models and data flow diagrams; performing data mining; using segmentation techniques, Python Scripting and SQL; building ETL data pipelines from scratch; building an ETL testing pipeline.
+Travel: Travel to Azurity locations (Atlanta, Raleigh, Boston) not more than monthly with each trip lasting one to five days.
+Hours: 40 hours /week, flexible hours matching multiple time zones
+Location: Remote work nationwide in the EST time zone
+Physical &amp; Mental Requirements:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be able to sit for long periods of time
+While performing the duties of this job, the employee is frequently required to stand; walk; sit; talk and/or hear
+May occasionally climb stairs and/or ride elevators
+The employee must occasionally lift and/or move up to 25 pounds
+Employee must be able to manipulate keyboard, operate a telephone and hand-held devices
+Other miscellaneous job duties as required
+Benefits We Offer:
+Unlock Your Earning Potential: Join our team and be rewarded with a competitive compensation package, including an annual bonus based on company performance, that recognizes your exceptional talent. 
+Sales - In lieu of annual bonuses, we offer an Incentive compensation program that allows you to earn more - even over plan.
+Fuel Your Success: *Sales Only* - We understand the value of your hard work and provide a car reimbursement program and gas card for both business and personal use as part of our commitment to supporting you. 
+Comprehensive Health Coverage: We value your well-being and offer excellent medical, dental, vision, and prescription coverage to ensure you and your family are always taken care of.
+Flexibility for Your Lifestyle: Achieve work-life balance with our hybrid work model, allowing you to work two days from home and three days in the office. *Excludes Sales, Manufacturing, and some Operations positions*
+Start Your Week on a High Note: Indulge in our “Bagel Tuesday” perk, where you can enjoy a fresh bagel on us every Tuesday morning. **Only for On-site/Hybrid colleagues**
+Invest in Your Future: Our Retirement Savings Plan (401K) is designed to help you secure a comfortable retirement by matching dollar for dollar up to 5%.
+Time Off That Counts: Take advantage of our generous time off policy, which offers up to 15 vacation days annually + rollover (up to 40 hours) as well as five sick/wellness days. For new employees, vacation accrual will be prorated based on your start date.
+Meaningful Time with Your Loved Ones: We close between Christmas and New Year’s to give you an extra week off to spend quality time with your family and recharge.
+Enjoy the Holidays: Over the course of the year, Azurity recognizes 13 holidays.
+Summer Vibes: Embrace the summer season with our Summer-Hours perk, available between Memorial Day and Labor Day. **Excludes Sales Colleagues**
+Invest in Your Education: We support your professional growth with tuition reimbursement for undergraduate and graduate level courses or certifications.
+Recognize and Be Recognized: Our Azurity High Five peer recognition platform allows you to celebrate your colleagues&apos; accomplishments and receive recognition for your own outstanding work.
+The California Consumer Privacy Act regulates privacy rights and consumer protection for residents of California, United States. For details, click here.
+The General Data Protection Regulation (GDPR) sets guidelines for the collection and processing of personal information from individuals who live in the European Union (EU).</description_text></item><item><id>1687194250</id><date_posted>2025-05-22T16:03:53</date_posted><date_created>2025-05-22T16:16:43.176045</date_created><title>Senior Data Engineer</title><organization>Thoughtworks</organization><organization_url></organization_url><date_validthrough></date_validthrough><locations_raw><item><key name="@type">Place</key><name>Newcastle</name><address><key name="@type">PostalAddress</key><name>Newcastle</name><addressCountry></addressCountry><addressLocality>Newcastle</addressLocality></address></item></locations_raw><locations_alt_raw></locations_alt_raw><location_type></location_type><location_requirements_raw></location_requirements_raw><salary_raw></salary_raw><employment_type></employment_type><url>https://www.thoughtworks.com/careers/jobs/6906216?gh_jid=6906216</url><source_type>ats</source_type><source>greenhouse</source><source_domain>www.thoughtworks.com</source_domain><organization_logo></organization_logo><cities_derived></cities_derived><regions_derived><item>Newcastle upon Tyne</item></regions_derived><countries_derived><item>United Kingdom</item></countries_derived><locations_derived><item>Newcastle upon Tyne, United Kingdom</item></locations_derived><timezones_derived><item>Europe/London</item></timezones_derived><lats_derived><item>54.98</item></lats_derived><lngs_derived><item>-1.61</item></lngs_derived><remote_derived>false</remote_derived><description_text>Senior data engineers at Thoughtworks are engineers who build, maintain and test the software architecture and infrastructure for managing data applications. They are involved in developing core capabilities which include technical and functional data platforms. They are the anchor for functional streams of work and are accountable for timely delivery. They work on the latest big data tools, frameworks and offerings (data mesh, etc.), while also being involved in enabling credible and collaborative problem solving to execute on a strategy.
+Job responsibilities
+You will develop and operate modern data architecture approaches to meet key business objectives and provide end-to-end data solutions
+You will develop intricate data processing pipelines, addressing clients&apos; most challenging problems
+You will collaborate with data scientists to design scalable implementations of their models
+You will write clean, iterative code using TDD and leverage various continuous delivery practices to deploy, support and operate data pipelines
+You will use different distributed storage and computing technologies from the plethora of options available
+You will develop data models by selecting from a variety of modeling techniques and implementing the chosen data model using the appropriate technology stack
+You will collaborate with the team on the areas of data governance, data security and data privacy
+You will incorporate data quality into your day-to-day work
+Job qualifications
+Technical Skills
+Working with data excites you; You can build and operate data pipelines, and maintain data storage, all within distributed systems
+You have hands-on experience of data modeling and modern data engineering tools and platforms
+You have experience in writing clean, high-quality code using the preferred programming language
+You have built and deployed large-scale data pipelines and data-centric applications using any of the distributed storage platforms and distributed processing platforms in a production setting
+You have experience with data visualization techniques and can communicate the insights as per the audience
+You have experience with data-driven approaches and can apply data security and privacy strategy to solve business problems
+You have experience with different types of databases (i.e.: SQL, NoSQL, data lake, data schemas, etc.)
+Professional Skills
+You understand the importance of stakeholder management and can easily liaise between clients and other key stakeholders throughout projects, ensuring buy-in and gaining trust along the way
+You are resilient in ambiguous situations and can adapt your role to approach challenges from multiple perspectives
+You don’t shy away from risks or conflicts, instead you take them on and skillfully manage them
+You are eager to coach, mentor and motivate others and you aspire to influence teammates to take positive action and accountability for their work
+You enjoy influencing others and always advocate for technical excellence while being open to change when needed
+Other things to know
+Learning &amp; Development
+There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.
+About Thoughtworks
+Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. For 30+ years, our clients have trusted our autonomous teams to build solutions that look past the obvious. Here, computer science grads come together with seasoned technologists, self-taught developers, midlife career changers and more to learn from and challenge each other. Career journeys flourish with the strength of our cultivation culture, which has won numerous awards around the world. 
+
+Join Thoughtworks and thrive. Together, our extra curiosity, innovation, passion and dedication overcomes ordinary.
+#LI-Remote</description_text></item></jobs>
