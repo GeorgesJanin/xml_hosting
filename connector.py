@@ -12,8 +12,8 @@ url = 'https://active-jobs-db.p.rapidapi.com/active-ats-7d'
 querystring = {
     "limit": "10",
     "offset": "0",
-    "title_filter": '"Data Engineer"',
-    "location_filter": '"United States" OR "United Kingdom"',
+    "title_filter": '"Software Engineer"',
+    "location_filter": '"Colombia" OR "Mexico"',
     "description_type": "text"
 }
 headers = {
