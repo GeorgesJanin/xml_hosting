@@ -13,8 +13,8 @@ querystring = {
     "limit": "50",
     "offset": "0",
     "title_filter": '"Software Engineer"',
-    "location_filter": '"Argentina" OR "Bolivia" OR "Brazil" OR "Chile" OR "Colombia" OR "Costa Rica" OR "Cuba" OR "Dominican Republic" OR "Ecuador" OR "El Salvador" OR "Guatemala" OR "Honduras" OR "Mexico" OR "Nicaragua" OR "Panama" OR "Paraguay" OR "Peru" OR "Puerto Rico" OR "Uruguay" OR "Venezuela"',
-    "description_type": "text"
+    "description_type": "text",
+    "location_filter": "Mexico"
 }
 headers = {
     'x-rapidapi-host': 'active-jobs-db.p.rapidapi.com',
